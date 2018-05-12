@@ -1,0 +1,35 @@
+_repo: The-Cattle-Raid-of-Cualnge--Tain-Bo-Cualnge----An-Old-Irish-Prose-Epic_14391
+_version: 0.1.0
+alternative_title: Táin Bó Cúalnge. English
+contributor:
+  translator:
+    agent_name: Faraday, L. Winifred
+    aliases:
+    - Faraday, Winifred
+    - Faraday, Lucy Winifred
+    birthdate: 1872
+    gutenberg_agent_id: '4774'
+    url: http://www.gutenberg.org/2009/agents/4774
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic literature, Irish -- Translations into English'
+- !lcc 'PB'
+- !lcsh 'Mythology, Celtic -- Ulster (Northern Ireland and Ireland)'
+- !lcsh 'Tales, Medieval -- Translations into English'
+- !lcsh 'Heroes -- Ulster (Northern Ireland and Ireland) -- Legends'
+- !lcsh 'Cuchulain (Legendary character) -- Fiction'
+- !lcsh 'Tales -- Ulster (Northern Ireland and Ireland)'
+- !lcsh 'Cattle stealing -- Fiction'
+title: 'The Cattle-Raid of Cualnge (Tain Bo Cualnge) : An Old Irish Prose-Epic'
+url: http://www.gutenberg.org/ebooks/14391
